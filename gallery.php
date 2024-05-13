@@ -78,24 +78,67 @@
 
 
 <!--GALLERY -->
-<section>
+<section class="sm:w-11/12 mx-auto px-5 lg:px-0">
 <div class="app-container mt-10">
   <div class="bg-white rounded-xl p-8 md:p-24">
     <h2 class="font-dortmund font-extrabold text-[24px] leading-[21.6px] tracking-[-1.44px] md:text-[40px] md:leading-[36px] md:tracking-[-2.4px]">Pictures</h2>
     <div class="mt-12 grid grid-cols-1 gap-6 md:grid-cols-3">
-      <img src="/images/gallery/gallery1-1.svg" alt="speaker" class="rounded-xl w-full h-full">
+      <img src="./assets/images/gallery/gallery1-1.svg" alt="speaker" class="rounded-xl w-full h-full">
       <div class="flex flex-col gap-y-6">
-        <img src="/images/gallery/gallery1-2.svg" alt="speaker" class="rounded-xl h-2/5 w-full aspect-square">
-        <img src="/images/gallery/img1-4.jpg" alt="speaker" class="rounded-xl w-full hidden md:block h-3/5 object-cover"></div>
-        <img src="/images/gallery/gallery1-3.svg" alt="speaker" class="rounded-xl w-full aspect-video hidden md:inline-flex h-full">
-        <img src="/images/gallery/gallery1-4-mobile.svg" alt="speaker" class="rounded-xl w-full md:hidden">
+        <img src="./assets/images/gallery/gallery1-2.svg" alt="speaker" class="rounded-xl h-2/5 w-full aspect-square">
+        <img src="./assets/images/gallery/img1-4.jpg" alt="speaker" class="rounded-xl w-full hidden md:block h-3/5 object-cover"></div>
+        <img src="./assets/images/gallery/gallery1-3.svg" alt="speaker" class="rounded-xl w-full aspect-video hidden md:inline-flex h-full">
+        <img src="./assets/images/gallery/gallery1-4-mobile.svg" alt="speaker" class="rounded-xl w-full md:hidden">
       </div>
     </div>
   </div>
 </section>
 
+<section class="sm:w-11/12 mx-auto px-5 lg:px-0">
+<div class="app-container mt-10">
+  <div class="bg-white rounded-xl p-8 md:p-24">
+    <h2 class="font-dortmund font-extrabold text-[24px] leading-[21.6px] tracking-[-1.44px] md:text-[40px] md:leading-[36px] md:tracking-[-2.4px]">Onboarding</h2>
+    <div class="mt-12 grid grid-cols-1 gap-6 md:grid-cols-3">
+      <img src="./assets/images/gallery/gallery2-1.svg" alt="speaker" class="rounded-xl w-full h-full">
+      <div class="flex flex-col gap-y-6">
+        <img src="./assets/images/gallery/img2-2.jpg" alt="speaker" class="rounded-xl h-2/5 w-full aspect-square object-cover">
+        <img src="./assets/images/gallery/gallery2-3.svg" alt="speaker" class="rounded-xl h-3/5 w-full aspect-video hidden md:inline-flex">
+        <img src="./assets/images/gallery/gallery2-4.svg" alt="speaker" class="rounded-xl w-full md:hidden"></div>
+        <img src="./assets/images/gallery/gallery2-4.svg" alt="speaker" class="rounded-xl w-full hidden md:inline-flex">
+        <img src="./assets/images/gallery/gallery2-4-mobile.svg" alt="speaker" class="rounded-xl w-full md:hidden">
+      </div>
+    </div>
+  </div>
+  </section>
 
 
+  <div class="sm:w-11/12 mx-auto px-5 lg:px-0">
+    <div class="app-container">
+      <div class="md:hidden -translate-y-28 z-10">
+        <section class="rounded-2xl overflow-hidden w-full bg-[#034539]">
+          <img src="./assets/images/girl-smiling-DpfNMwUb.png" alt="A dark girl on braid smiling">
+          <div class="w-[231px] mx-auto flex flex-col items-start gap-y-3 mb-24 mt-10">
+            <h2 class="font-extrabold font-dortmund text-[39px] text-white leading-[0.9]">Enabling efficiency in power sector in Enugu&nbsp;State</h2>
+            <a class="py-[18px] px-[32px] rounded-xl bg-[#FC6D06] leading-[1.3] font-red-hat font-bold inline-block text-white" href="/contact-us">Contact Us</a>
+          </div>
+        </section>
+      </div>
+      <div class="hidden md:flex items-center bg-[#034539] rounded-2xl mt-40">
+        <div class="w-3/5 flex justify-center">
+          <img src="./assets/images/girl-desktop.svg" class="">
+        </div>
+        <div class="flex justify-center">
+          <div class="">
+            <div class="text-white font-dortmund font-extrabold text-[50px] leading-[1.7] tracking-[-4.5px]"><p class="">Invest in</p>
+            <p class="">efficiency &amp;</p>
+            <p class="">adequacy</p>
+          </div>
+          <button class="inline-flex items-center justify-center whitespace-nowrap rounded-md ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-[#FC6d06] text-primary-foreground hover:bg-[#FC6d06]/90 h-10 mt-8 font-red-hat text-[16px] leading-[15.52px] tracking-[-0.64px] p-6 font-extrabold">Learn more</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
   </main>
 <!--=========FIND US ===========--->

@@ -1,4 +1,4 @@
-<div class="bg-[#E7E7E733] backdrop-blur-md fixed shadow-sm top-0 z-[50] left-0 w-full " style="opacity: 1; transform: none;">
+<div class="bg-[#E7E7E733] backdrop-blur-md fixed shadow-sm top-0 z-[10] left-0 w-full " style="opacity: 1; transform: none;">
   <div class="flex px-[40px] md:px-[10px]  lg:px-[100px]">
     <div class="max-w-screen-2xl mx-auto w-full py-4 block">
       <div class="flex items-center justify-between w-full">
